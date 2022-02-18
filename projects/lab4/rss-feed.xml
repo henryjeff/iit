@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Henry Heffernan's Unbiased Political Feed</title>
+	<description>I am a totally unbiased and based CS student attending RPI. This is my political RSS Feed</description>
+	<link>https://afsws.rpi.edu/AFS/home/76/heffeh/public_html/iit/</link>
+	<lastBuildDate>Thu, 10 Feb 2022 00:02:00 +0000 </lastBuildDate>
+	<pubDate>Thu, 10 Feb 2022 00:02:00 +0000 </pubDate>
+	<item>
+		<title>GOP Blocks Sanders Effort to Force Vote on Slashing Drug Prices</title>
+		<description>"How many people need to die, how many people need to get unnecessarily sicker, before Congress is prepared to take on the greed of the prescription drug industry?" asked Sen. Bernie Sanders.</description>
+		<link>https://www.rollingstone.com/politics/politics-news/trump-white-house-toilets-clogged-paper-1297893/</link>
+	  <guid>https://www.rollingstone.com/politics/politics-news/trump-white-house-toilets-clogged-paper-1297893/</guid>
+    <pubDate>Thu, 10 Feb 2022 00:09:23 +0000  </pubDate>
+	</item>
+	<item>
+		<title>Trump Clogged the White House Toilet Trying to Flush Printer Paper</title>
+		<description>The former president’s crusade to increase the flushing power of the nation’s toilets takes on a whole new dimension.</description>
+		<link>https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices</link>
+		<guid>https://www.commondreams.org/news/2022/02/10/gop-blocks-sanders-effort-force-vote-slashing-drug-prices</guid>
+		<pubDate>Thu, 10 Feb 2022 00:10:44 +0000  </pubDate>
+		</item>
+	<item>
+    <title>Oklahoma bill would fine teachers $10k for teaching anything that contradicts religion</title>
+    <description>Under Senator Rob Standridge’s Students’ Religious Belief Protection Act subjects like LGBT+ issues, evolution and the big bang theory, even birth control could be off the table</description>
+    <link>https://www.independent.co.uk/news/world/americas/us-politics/oklahoma-bill-religion-rob-standridge-b2007505.html</link>
+		<guid>https://www.independent.co.uk/news/world/americas/us-politics/oklahoma-bill-religion-rob-standridge-b2007505.html</guid>
+		<pubDate>Fri, 4 Feb 2022 00:01:29 +0000  </pubDate>
+		</item>
+	<item>
+    <title>McConnell breaks with RNC: Jan. 6 'violent insurrection'</title>
+    <description>Senate Minority Leader Mitch McConnell criticized the Republican National Committee for its censure of Reps. Adam Kinzinger and Liz Cheney and broke with their language on the Jan. 6, 2021 riot, calling it a “violent insurrection.”</description>
+    <link>https://thehill.com/homenews/senate/593339-mcconnell-breaks-with-rnc-jan-6-violent-insurrection</link>
+		<guid>https://thehill.com/homenews/senate/593339-mcconnell-breaks-with-rnc-jan-6-violent-insurrection</guid>
+		<pubDate>Tue, 8 Feb 2022 00:02:47 +0000  </pubDate>
+		</item>
+	<item>
+    <title>Sen. Schumer plans to pass legislation that decriminalizes marijuana on a federal level</title>
+    <description>Senate Majority Leader Chuck Schumer renewed his calls on Friday for the federal decriminalization of marijuana, gathering some of his congressional buds in lower Manhattan to make his case after working to roll up Republican support over the past several months.</description>
+    <link>https://www.nydailynews.com/news/politics/us-elections-government/ny-sen-schumer-plans-to-decriminalize-marijuana-on-a-federal-level-20220204-r4xlnnndlfhtdcd64257gjxita-story.html</link>
+		<guid>https://www.nydailynews.com/news/politics/us-elections-government/ny-sen-schumer-plans-to-decriminalize-marijuana-on-a-federal-level-20220204-r4xlnnndlfhtdcd64257gjxita-story.html</guid>
+		<pubDate>Fri, 04 Feb 2022 00:05:25 +0000  </pubDate>
+		</item>
+</channel>
+</rss>
+
