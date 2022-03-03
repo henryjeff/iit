@@ -28,9 +28,3 @@ h1:hover {
   color: red;
   background-color: transparent;
 }
-
-/* make my name class in small caps */
-.myName {
-  font-variant: small-caps;
-  color: palevioletred;
-}

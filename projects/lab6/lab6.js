@@ -16,6 +16,12 @@ $(document).ready(function() {
    //change the color to be something other than blue or black
    // (note that there is already a class defined for the area where your name should go)
 
+   $('h1 .myName').click(function() {
+      $(this).text('Henry Heffernan');
+      $(this).css('color', 'palevioletred');
+      $(this).css('font-variant', 'small-caps');
+   });
+   
    // Problem 2: Make the "lorem ipsum" paragraphs 
    //   vanish over a 4/10 sec duration when a user clicks "Hide text"; 
    //   make it appear within a 2 second duration when a user clicks "Show text":
