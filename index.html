@@ -4,6 +4,12 @@
     <title>Projects Home Page</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" type="text/css" href="index.css" />
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"
+    ></script>
+    <script type="text/javascript" src="./quiz2/index.js"></script>
   </head>
   <body>
     <div class="body">
@@ -12,16 +18,59 @@
           <h1>HENRY J HEFFERNAN</h1>
           <div class="header-icon">≈</div>
         </div>
-        <h3>[  Projects Home Page  ]</h3>
+        <h3>[ Projects Home Page ]</h3>
+        <div class="loginAlert">
+          <p id="loginAlertText"></p>
+        </div>
       </header>
       <main>
+        <section class="loginSection">
+          <form
+            id="loginForm"
+            name="loginForm"
+            action="?action=login"
+            method="get"
+            >
+            <div class="formData">
+              <!-- onsubmit="return validate(this);" -->
+              <div class="formInput">
+                <p class="fieldLabel" for="firstName">USERID:</p>
+                <div class="value">
+                  <input
+                    class="textInput"
+                    type="text"
+                    value=""
+                    name="userId"
+                    id="userId"
+                  />
+                </div>
+              </div>
+
+              <div class="formInput">
+                <p class="fieldLabel" for="lastName">PASSWORD:</p>
+                <div class="value">
+                  <input
+                    class="textInput"
+                    type="text"
+                    value=""
+                    name="password"
+                    id="password"
+                  />
+                </div>
+              </div>
+
+              <input class="button" type="submit" />
+            </div>
+          </form>
+        </section>
         <section class="about">
           <h2>ABOUT</h2>
           <p>
-            Hi! I'm Henry Heffernan, a senior studying CS at RPI. I am on track to
-            graduate this spring and plan on getting a job doing Software Engineering 
-            after my time at RPI. I have extensive professional experience working with
-            React, but I'm hoping to refine my foundational web skills in this class.
+            Hi! I'm Henry Heffernan, a senior studying CS at RPI. I am on track
+            to graduate this spring and plan on getting a job doing Software
+            Engineering after my time at RPI. I have extensive professional
+            experience working with React, but I'm hoping to refine my
+            foundational web skills in this class.
           </p>
         </section>
         <section class="navigation">
