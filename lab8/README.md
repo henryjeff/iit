@@ -8,3 +8,6 @@ to figure it out but ended up giving up and then putting it off.
 
 This is my answer to the XSS
 <script>window.location = 'http://www.rpi.edu'</script>
+
+Here is the link to the merged branch
+https://github.com/henryjeff/iit/pull/7
