@@ -1,0 +1,63 @@
+{
+  "projects": [
+    {
+      "name": "LAB 2",
+      "description": "This is the second lab in the Introduction to IT and Web Science class. It is a simple website designed to show off my resume",
+      "links": [{ "text": "_", "route": "projects/lab1/index.html" }]
+    },
+    {
+      "name": "LAB 4",
+      "description": "This lab was all about RSS and XML. I created a political RSS and Atom feed using multiple different publications based on current events. ",
+      "links": [
+        {
+          "text": "Click Here to view the RSS feed",
+          "route": "projects/lab4/rss-feed.xml"
+        },
+        {
+          "text": "Click Here to view the Atom feed",
+          "route": "projects/lab4/atom-feed.xml"
+        }
+      ]
+    },
+    {
+      "name": "LAB 5",
+      "description": "In this lab we begin using javascript to validate and make a form more user friendly!",
+      "links": [
+        {
+          "text": "_",
+          "route": "projects/lab5/lab5.html"
+        }
+      ]
+    },
+    {
+      "name": "LAB 6",
+      "description": "In this lab we begin using jquery to make our website more interactive!",
+      "links": [
+        {
+          "text": "_",
+          "route": "projects/lab6/lab6.html"
+        }
+      ]
+    },
+    {
+      "name": "LAB 7",
+      "description": "In this lab we did the mockups for our team project. Click to see the mockup we did!",
+      "links": [
+        {
+          "text": "_",
+          "route": "projects/lab7/ITWS_Team3_Project_Plan.docx"
+        }
+      ]
+    },
+    {
+      "name": "LAB 8",
+      "description": "In this lab we used XAMPP to host our website locally. This allows us to make requests and run server side code. We also did some XSS.",
+      "links": [
+        {
+          "text": "_",
+          "route": "lab8/lab8.html"
+        }
+      ]
+    }
+  ]
+}
